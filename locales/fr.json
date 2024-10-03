@@ -1,0 +1,46 @@
+{
+  "about": "À propos",
+  "projects": "Projets",
+  "competence": "Compétences",
+  "contact": "Contact",
+  "hero": {
+    "intro": "Donnez vie à votre imagination",
+    "mission": "Transformer les rêves. en réalité avec du",
+    "me": "Bonjour, je suis KOZA Mondomwédéou. En tant que développeur web et mobile, je suis là pour répondre à vos besoins. Ensemble, donnons vie à vos idées.",
+    "invitation-button": "Construisons un projet ensemble !"
+  },
+  "contact-comp": {
+    "section-title": "Besoin de nos services ?",
+    "title": "Contactez-nous",
+    "form-label-name": "Votre nom",
+    "form-label-email": "Votre email",
+    "form-label-phone": "Votre téléphone",
+    "form-label-message": "Votre message",
+    "form-label-submit": "Envoyer le message"
+  },
+
+  "projects-comp": {
+    "recent-projects": "Quelques projets récents",
+    "project-live-site-button": "Voir le site en ligne"
+  },
+
+  "tech-stack": {
+    "some-tech": "Technologies que nous connaissons"
+  },
+
+  "message-box": {
+    "success": "Succès ! 🎉",
+    "failure": "Oups ! 😕",
+    "success-message": "Votre message a été envoyé avec succès. Nous vous contacterons bientôt !",
+    "failure-message": "Une erreur est survenue lors de l'envoi de votre message. Veuillez réessayer plus tard.",
+    "close-box": "Fermer"
+  },
+
+  "projectsDesc": {
+    "promptopia": "Une application Next.js pour partager des prompts d'IA",
+    "chat-gemini": "Une application React.js utilisant l'API Google Gemini pour un chat interactif IA. Il s'agit du clone de Google Gemini.",
+    "transcribo": "Une application Next.js pour enregistrer de l'audio et traduire dans plusieurs langues.",
+    "movies-sky": "Une application React.js utilisant l'API OMDB pour rechercher des films",
+    "gymtopia": "Une application Next.js aidant les utilisateurs à sélectionner divers entraînements selon leurs préférences"
+  }
+}

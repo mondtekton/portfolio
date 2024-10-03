@@ -1,0 +1,44 @@
+{
+  "about": "About",
+  "projects": "Projects",
+  "competence": "Competences",
+  "contact": "Contact",
+  "hero": {
+    "intro": "Bring your imagination to life",
+    "mission": "Transforming dreams. into reality with",
+    "me": "Hi, I’m KOZA Mondomwédéou. As a web and mobile developer, I’m here to meet your needs. Together, let’s bring your ideas to life.",
+    "invitation-button": "Let’s Build a Project!"
+  },
+  "contact-comp": {
+    "section-title": "Need Our Services?",
+    "title": "Get in Touch",
+    "form-label-name": "Your Name",
+    "form-label-email": "Your Email",
+    "form-label-phone": "Your Phone",
+    "form-label-message": "Your Message",
+    "form-label-submit": "Send Message"
+  },
+  "projects-comp": {
+    "recent-projects": "Some Recent Projects",
+    "project-live-site-button": "View Live Site"
+  },
+
+  "teck-stack": {
+    "some-tech": "Technologies we are familiar with"
+  },
+
+  "message-box": {
+    "success": "Success! 🎉",
+    "failure": "Oops! 😕",
+    "success-message": "Your message has been sent successfully. We’ll get in touch with you soon!",
+    "failure-message": "There was an error sending your message. Please try again later.",
+    "close-box": "Close"
+  },
+  "projectsDesc": {
+    "promptopia": "A Next.js app for sharing AI prompts",
+    "chat-gemini": "A ReactJS app using the Google Gemini API for interactive AI chat. This is a Google Gemini clone.",
+    "transcribo": "A NextJS app for recording audio and translating it into multiple languages.",
+    "movies-sky": "A ReactJS app using the OMDB API to search for movies",
+    "gymtopia": "A NextJS app that helps users choose workouts based on their preferences"
+  }
+}

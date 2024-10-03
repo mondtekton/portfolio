@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.root {
+  --background-gradient: linear-gradient(145deg, #191925, #1e1e2c);
+  font-weight: normal;
+  background: var(--background-gradient);
+  color: #ededed;
+  scroll-behavior: smooth;
+}
+
+.bg {
+  background: linear-gradient(145deg, #191925, #1e1e2c);
+}
+
+.bg-button {
+  background: linear-gradient(145deg, #1d1d2c, #222233);
+}
+
+.button-hover {
+  background: linear-gradient(145deg, #252538, #2a2a3f);
+}
+
+.font-open-sans {
+  font-family: var(--font-open-sans), serif;
+}
