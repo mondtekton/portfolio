@@ -13,16 +13,16 @@ const getProjects = (t /*The translation function */) => {
       image: "/assets/promptopia.png",
     },
     {
-      title: "Chat Gemini",
+      title: "Ask Gemini",
       desc: t("chat-gemini"),
-      link: "https://gemini-talk.netlify.app/",
-      image: "/assets/chat-gemini.png",
+      link: "https://ask-gemini-xi.vercel.app/",
+      image: "/assets/ask-gemini.png",
     },
     {
       title: "Transcribo",
       desc: t("transcribo"),
-      link: "",
-      image: "/assets/coding3.png",
+      link: "https://transcribo-hub.vercel.app/",
+      image: "/assets/transcribo.png",
     },
     ,
     {
